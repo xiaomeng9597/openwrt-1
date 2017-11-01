@@ -1,3 +1,7 @@
+如果你有任何问题，可以上ask.wrtnode.cc提问，或加入Q群 331983270
+
+If you have any question about this SDK, please post the issue to ask.wrtnode.cc or join our QQ group 331983270
+
 Hi this is the OpenWrt for WRTnodes
 
 [![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/WRTnode)
